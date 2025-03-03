@@ -13,7 +13,7 @@
     "LOG_MSG": {
       "description": "Show whatsapp msgs in log",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
     "SUDO": {
       "description": "admin",
@@ -28,7 +28,7 @@
     "SESSION_ID": {
       "description": "session id",
       "required": true,
-      "value": ""
+      "value": "levanter_38c0193309c3f4239960a5d8be6b55679"
     },
     "STICKER_PACKNAME": {
       "description": "sticker pack info",
